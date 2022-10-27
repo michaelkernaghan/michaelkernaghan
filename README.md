@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelkernaghan
 - 👀 I’m interested in testing
-- 🌱 I’m currently learning Michelson and Taquito and Baking
+- 🌱 Is it even possible to be full stack in crypto?
 - 📫 How to reach me michaelkernaghan@ecadlabs.com
 
 <!---
