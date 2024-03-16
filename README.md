@@ -2,7 +2,7 @@
 - 👀 I’m interested in testing
 - 🌱 Is it even possible to be full stack in crypto?
 - 📫 How to reach me michaelkernaghan@ecadlabs.com
-- standardtesting.io
+- http://standardtesting.io
 - standardtesting.eth
 - standardtesting.tez
 
