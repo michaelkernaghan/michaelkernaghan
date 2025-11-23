@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelkernaghan
 - 👀 I’m interested in testing
-- 🌱 Is it even possible to be full stack in crypto?
+- I am in Crypto for the cryptography.
 - 📫 How to reach me michaelkernaghan@ecadlabs.com
 - http://michaelkernaghan.io
 - michaelkernaghan.tez
