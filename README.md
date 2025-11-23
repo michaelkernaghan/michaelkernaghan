@@ -3,7 +3,6 @@
 - 🌱 Is it even possible to be full stack in crypto?
 - 📫 How to reach me michaelkernaghan@ecadlabs.com
 - http://michaelkernaghan.io
-- michaelkernaghan.eth
 - michaelkernaghan.tez
 
 <!---
