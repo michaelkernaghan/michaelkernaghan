@@ -2,9 +2,9 @@
 - 👀 I’m interested in testing
 - 🌱 Is it even possible to be full stack in crypto?
 - 📫 How to reach me michaelkernaghan@ecadlabs.com
-- http://standardtesting.io
-- standardtesting.eth
-- standardtesting.tez
+- http://michaelkernaghan.io
+- michaelkernaghan.eth
+- michaelkernaghan.tez
 
 <!---
 michaelkernaghan/michaelkernaghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
