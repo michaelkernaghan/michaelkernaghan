@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @michaelkernaghan
-- 👀 I’m interested in testing
-- I am in Crypto for the cryptography.
-- 📫 How to reach me michaelkernaghan@ecadlabs.com
-- http://michaelkernaghan.io
+# Hi, I'm Michael Kernaghan
+
+- I'm interested in testing, cryptography, and blockchain technology
+- I am in Crypto for the cryptography
+
+## Links
+
+- [Personal Website](https://github.com/michaelkernaghan/personal-website)
 - michaelkernaghan.tez
 
+## Contact
+
+- michaelkernaghan@ecadlabs.com
+
 <!---
-michaelkernaghan/michaelkernaghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+michaelkernaghan/michaelkernaghan is a special repository because its README.md appears on your GitHub profile.
 --->
