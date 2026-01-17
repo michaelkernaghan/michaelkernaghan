@@ -1,7 +1,8 @@
 # Hi, I'm Michael Kernaghan
 
-- I'm interested in testing, cryptography, and blockchain technology
+- I'm interested in testing, cryptography, quantum computing and blockchain technology all mixed together.
 - I am in Crypto for the cryptography
+- Don't let the quantum state entangle you. Collapse the narrative.
 
 ## Links
 
