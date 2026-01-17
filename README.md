@@ -6,7 +6,7 @@
 
 ## Links
 
-- [Personal Website(https://github.com/michaelkernaghan/personal-website](https://michaelkernaghan.netlify.app/)]
+- [Personal Website](https://github.com/michaelkernaghan/personal-website](https://michaelkernaghan.netlify.app/)
 - michaelkernaghan.tez
 
 ## Contact
